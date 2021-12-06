@@ -1,8 +1,13 @@
 body {
   background-color: aliceblue;
+  margin: 0;
 }
 
 h1 {
   color: aqua;
   font-size: small;
+}
+
+p {
+  color: brown;
 }
